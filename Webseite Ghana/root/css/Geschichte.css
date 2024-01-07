@@ -1,0 +1,81 @@
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333; 
+    background-color: #F5F5DC; 
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #8FBC8F; 
+    text-align: center;
+    padding: 20px;
+  }
+  
+  header h1 {
+    color: #006400;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+  }
+  
+  .navbar {
+    background-color: #228B22;
+    text-align: center;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+  }
+  
+  .navbar li {
+    float: left;
+  }
+  
+  .navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    font-weight: bold;
+  }
+  
+  .navbar a:hover {
+    background-color: #9ACD32;
+  }
+  
+  section {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  section h2, section h3 {
+    color: #FF4500; 
+  }
+  
+  .karte-image {
+    width: 100%; 
+    max-width: 900px; 
+    margin: 20px auto;
+    display: block; 
+  }
+  
+  footer {
+    background-color: #228B22;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  .geschichte-image {
+    width: 100px;
+    height: auto; 
+  }
+    
